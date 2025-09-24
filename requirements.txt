@@ -1,0 +1,6 @@
+pandas
+numpy
+gradio
+gradio-client
+python-dotenv
+opencv-python
